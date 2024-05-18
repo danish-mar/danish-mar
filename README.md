@@ -17,7 +17,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 15px;">
 </a>
 
-<a href="https://www.instagram.com/your-profile" target="_blank">
+<a href="https://www.instagram.com/gamerz_dennis/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 15px;">
 </a>
 
