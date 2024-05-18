@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/danish-mar/danish-mar/blob/main/Element_Electro.png?raw=true" height="30" width="30">
   <h2>Status :</h2>
   <img class="imo" src="https://github.com/danish-mar/danish-mar/blob/main/tenor.gif?raw=true" width="200" height="200" style="border-radius: 30"></img>
   <h2>Pushing my limits....</h2>
