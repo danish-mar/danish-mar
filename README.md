@@ -29,7 +29,8 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 
 <div align="left">
     <H1>    <img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50"> </H1>
-     <img src="https://count.getloli.com/get/@:danish-mar" alt=":danish-mar"/>
+    <img src="https://moecount.lolihouse.top/get/@:danish-mar?theme=moebooru" alt=":danish-mar">
+
 </div>
 
 
