@@ -29,6 +29,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 
 <div align="left">
     <H1>Views</H1>
+     <img src="https://count.getloli.com/get/@:danish-mar" alt=":danish-mar"/>
 </div>
 
 
