@@ -60,6 +60,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=flat&logo=obsidian&logoColor=purple&labelColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=purple&labelColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-000000?style=flat&logo=spotify&logoColor=purple&labelColor=black)
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=flat&logo=amazonwebservices&logoColor=purple&labelColor=black)
 
 
 <img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50">
