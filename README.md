@@ -17,6 +17,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 
 ### Currently Working on 🛠️: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=serenity&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/serenity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=yumi-tv&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/yumi-tv)
 
 <img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50">
 <h1> Connect with me 🌐 </h1>
