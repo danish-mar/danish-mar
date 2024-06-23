@@ -1,51 +1,31 @@
 <div align="center">
   <img src="https://github.com/danish-mar/danish-mar/blob/main/Element_Electro.png?raw=true" height="30" width="30">
-  <h2>Status :</h2>
-  <img class="imo" src="https://github.com/danish-mar/danish-mar/blob/main/tenor.gif?raw=true" width="200" height="200" style="border-radius: 30"></img>
-  <h2>Pushing my limits....</h2>
-  <div align="left">
-    <h1><img alt="kokomi" src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_7.png" width=50 height="50">  Hello World!... This is Denizuh </h1>
-   
-<br>
+  <h2>Status</h2>
+  <img class="imo" src="https://github.com/danish-mar/danish-mar/blob/main/tenor.gif?raw=true" width="100" height="100" style="border-radius: 50%">
+  <h2>Pushing my limits... 🚀</h2>
+</div>
+
+# Hello World! 🌍 ... This is Denizuh 🌟
+
 As a dedicated student, I am fueled by an unwavering passion for technology and innovation. Constantly driven to create solutions that are not only useful but also push the boundaries of what's possible, I believe that in an ever-evolving technological landscape, adaptation and innovation are key. Join me as I journey through the exciting realms of technology, striving to merge creativity with cutting-edge advancements, and together, let's embrace the challenges and opportunities that lie ahead.
-</div>
 
-<div align="left">
-  <h3>     <img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50">  Connect with me</h3>
+# My Github 📊: 
+### Stats 📈
+![](https://github-readme-stats.vercel.app/api?username=danish-mar&theme=midnight-purple&show_icons=true&hide_title=true&hide_border=true) <br>
+### Languages I use 🖥️:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danish-mar&layout=compact&theme=midnight-purple&show_icons=true&hide_title=true&hide_border=true) <br>
 
-  <a href="https://www.youtube.com/channel/UCzFUJm_8swv_qnVbuhnU4FQ" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 15px;">
-  </a>
+### Currently Working on 🛠️: 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=serenity&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/serenity)
 
-  <a href="https://www.instagram.com/gamerz_dennis/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 15px;">
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100017394582809" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 15px;">
-  </a>
-</div>
-
-</div>
-
-<div align="left">
-    <H1>    <img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50"> </H1>
-    <img src="https://moecount.lolihouse.top/get/@:danish-mar?theme=moebooru" alt=":danish-mar">
-
-</div>
+<img src="https://raw.githubusercontent.com/danish-mar/danish-mar/main/sticker_24%20(1).png" width="50" height="50">
+<h1> Connect with me 🌐 </h1>
 
 
-<!--
-**danish-mar/danish-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzFUJm_8swv_qnVbuhnU4FQ)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gamerz_dennis/)
+  [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017394582809)
 
-Here are some ideas to get you started:
+<h1> Views Count 🎉 </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![:danish-mar](https://moecount.lolihouse.top/get/@:danish-mar?theme=moebooru)
