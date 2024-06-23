@@ -22,7 +22,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 # Things i use and recommand
 ![C](https://img.shields.io/badge/C-000000.svg?style=flat&logo=c&logoColor=purple&labelColor=black)
 ![C++](https://img.shields.io/badge/C++-000000.svg?style=flat&logo=c%2B%2B&logoColor=purple&labelColor=black)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=purple&labelColor=black)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=mocha&logoColor=purple&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=purple&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=flat&logo=javascript&logoColor=purple&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=flat&logo=html5&logoColor=purple&labelColor=black)
@@ -72,4 +72,4 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 
 <h1> Views Count 🎉 </h1>
 
-![:danish-mar](https://moecount.lolihouse.top/get/@:danish-mar?theme=moebooru)
+![:danish-mar](https://moecount.lolihouse.top/get/@:danish-mar?theme=rule34)
