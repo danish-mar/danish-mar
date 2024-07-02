@@ -17,7 +17,7 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 
 ### Currently Working on 🛠️: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=serenity&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/serenity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=yumi-tv&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/yumi-tv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danish-mar&repo=equinox&theme=midnight-purple&show_icons=true&hide_border=true)](https://github.com/danish-mar/equinox)
 
 # Things i use and recommand
 ![C](https://img.shields.io/badge/C-000000.svg?style=flat&logo=c&logoColor=purple&labelColor=black)
