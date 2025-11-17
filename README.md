@@ -40,11 +40,15 @@ As a dedicated student, I am fueled by an unwavering passion for technology and 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat&logo=virtualbox&logoColor=purple&labelColor=black)
 
 ### Frameworks & Tools
+![React](https://img.shields.io/badge/React-000000.svg?style=flat&logo=react&logoColor=purple&labelColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-000000.svg?style=flat&logo=react&logoColor=purple&labelColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-000000.svg?style=flat&logo=node.js&logoColor=purple&labelColor=black)
 ![Qt](https://img.shields.io/badge/Qt-000000.svg?style=flat&logo=Qt&logoColor=purple&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=purple&labelColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000.svg?style=flat&logo=spring-boot&logoColor=purple&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-000000.svg?style=flat&logo=git&logoColor=purple&labelColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000000.svg?style=flat&logo=android-studio&logoColor=purple&labelColor=black)
+
 
 ### Additional Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000.svg?style=flat&logo=visual-studio-code&logoColor=purple&labelColor=black)
